@@ -19,4 +19,4 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-Acesse: http://localhost:8000/cep/01310100
+Acesse: https://geo-api-sophia.onrender.com
