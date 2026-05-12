@@ -134,4 +134,4 @@ pytest
 
 # 👩‍💻 Autora
 
-Desenvolvido com 💜 por **Sophia Silva Melo**
+Desenvolvido por **Sophia Silva Melo**
